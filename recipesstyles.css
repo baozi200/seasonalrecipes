@@ -12,7 +12,7 @@ p {
   font-family: monospace;
   text-align: center;
   padding: 10px;
-  font-color: black;
+  color: black;
   font-size: 1.2em;
 }
 
@@ -24,6 +24,7 @@ figcaption {
 
 .button1 {
   background-color: #ededed;
+  color: black;
   border-bottom: 2px solid #a36755;
   border-right; 2px solid #a36755;
   border-top: 1px solid #cdcdcd;
@@ -40,6 +41,7 @@ figcaption {
 
 .button2 {
   background-color: #ededed;
+  color: black;
   border-bottom: 2px solid #7eb1de;
   border-right; 2px solid #7eb1de;
   border-top: 1px solid #cdcdcd;
@@ -56,6 +58,7 @@ figcaption {
 
 .button3 {
   background-color: #ededed;
+  color: black;
   border-bottom: 2px solid #e3a1c1;
   border-right; 2px solid #e3a1c1;
   border-top: 1px solid #cdcdcd;
@@ -72,6 +75,7 @@ figcaption {
 
 .button4 {
   background-color: #ededed;
+  color: black;
   border-bottom: 2px solid #89d485;
   border-right; 2px solid #89d485;
   border-top: 1px solid #cdcdcd;

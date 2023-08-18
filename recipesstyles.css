@@ -1,0 +1,137 @@
+/*main styles*/
+
+.frontpageh1 {
+  font-family: sans-serif;
+  color: #ba9191;
+  text-align: center;
+  padding: 20px;
+  font-size: 3em;
+}
+
+p {
+  font-family: monospace;
+  text-align: center;
+  padding: 10px;
+  font-size: 1.2em;
+}
+
+figcaption {
+  font-family: monospace;
+  text-align: center;
+  font-size: 0.8em;
+}
+
+.button1 {
+  background-color: #ededed;
+  border-bottom: 2px solid #a36755;
+  border-right; 2px solid #a36755;
+  border-top: 1px solid #cdcdcd;
+  border-left: 1px solid #cdcdcd;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 3em;
+  font-family: monospace;
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.button2 {
+  background-color: #ededed;
+  border-bottom: 2px solid #7eb1de;
+  border-right; 2px solid #7eb1de;
+  border-top: 1px solid #cdcdcd;
+  border-left: 1px solid #cdcdcd;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 3em;
+  font-family: monospace;
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.button3 {
+  background-color: #ededed;
+  border-bottom: 2px solid #e3a1c1;
+  border-right; 2px solid #e3a1c1;
+  border-top: 1px solid #cdcdcd;
+  border-left: 1px solid #cdcdcd;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 3em;
+  font-family: monospace;
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.button4 {
+  background-color: #ededed;
+  border-bottom: 2px solid #89d485;
+  border-right; 2px solid #89d485;
+  border-top: 1px solid #cdcdcd;
+  border-left: 1px solid #cdcdcd;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 3em;
+  font-family: monospace;
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+body {
+  max-width: 100%;
+  background-color: #ededed;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*seasonal page styles*/
+
+.autumnpage {
+  font-family: sans-serif;
+  color: #a36755;
+  text-align: center;
+  padding: 20px;
+  font-size: 3em;
+}
+
+.winterpage {
+  font-family: sans-serif;
+  color: #7eb1de;
+  text-align: center;
+  padding: 20px;
+  font-size: 3em;
+}
+
+.springpage {
+  font-family: sans-serif;
+  color: #e3a1c1;
+  text-align: center;
+  padding: 20px;
+  font-size: 3em;
+}
+
+.summerpage {
+  font-family: sans-serif;
+  color: #89d485;
+  text-align: center;
+  padding: 20px;
+  font-size: 3em;
+}
+ 
